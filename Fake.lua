@@ -1,12 +1,16 @@
 ([[
                    This script has been licensed using Luarmor
-                Luarmor v3.5, Lua whitelisting system by @mizuhara#0
+                Luarmor v3.5, Lua whitelisting system by @mizuhara0.0
                            https://luarmor.net/
-                             Bố Mày Test Nhìn Cái lon
-                             
-                             
-                             
-                             
+
+      _____                  _     _ _        __     ______  
+     |_   _| __ _   _  ___  | |   (_) |_ ___  \ \   / /___ \ 
+       | || '__| | | |/ _ \ | |   | | __/ _ \  \ \ / /  __) |
+       | || |  | |_| |  __/ | |___| | ||  __/   \ V /  / __/ 
+       |_||_|   \__,_|\___| |_____|_|\__\___|    \_/  |_____|
+                                                             
+
+                                                     
                  Script ID: 3b2169cf53bc6104dabe8e19562e5cc2
 
             Please use the api.luarmor.net loadstring to load this script. (for your safety)
