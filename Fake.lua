@@ -3,6 +3,10 @@
                 Luarmor v3.5, Lua whitelisting system by @mizuhara#0
                            https://luarmor.net/
                              Bố Mày Test Nhìn Cái lon
+                             
+                             
+                             
+                             
                  Script ID: 3b2169cf53bc6104dabe8e19562e5cc2
 
             Please use the api.luarmor.net loadstring to load this script. (for your safety)
