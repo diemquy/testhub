@@ -1,13 +1,8 @@
 ([[
                    This script has been licensed using Luarmor
-                Luarmor v3.5, Lua whitelisting system by @fedaral#0
+                Luarmor v3.5, Lua whitelisting system by @mizuhara#0
                            https://luarmor.net/
-
-      _____                  _     _ _        __     ______  
-     |_   _| __ _   _  ___  | |   (_) |_ ___  \ \   / /___ \ 
-       | || '__| | | |/ _ \ | |   | | __/ _ \  \ \ / /  __) |
-       | || |  | |_| |  __/ | |___| | ||  __/   \ V /  / __/ 
-       |_||_|   \__,_|\___| |_____|_|\__\___|    \_/  |_____|
+                       Bố Mày Test Nhìn cái lon
                                                              
 
                                                      
